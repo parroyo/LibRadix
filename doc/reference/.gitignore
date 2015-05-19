@@ -1,0 +1,9 @@
+html
+xml
+tmpl
+
+*.types
+*.txt
+*.stamp
+radix.*
+.libs

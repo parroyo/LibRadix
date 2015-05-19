@@ -1,0 +1,21 @@
+
+Makefile
+Makefile.in
+
+# objects
+*.o
+*.a
+*.la
+*.lo
+gradixtree
+
+# swap files
+*.swp
+*~
+
+# tags
+tags
+etags
+
+.deps
+.libs
